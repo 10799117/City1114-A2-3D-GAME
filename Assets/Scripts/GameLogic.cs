@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class GameLogic : MonoBehaviour
 {
@@ -20,7 +21,7 @@ public class GameLogic : MonoBehaviour
 
     void Update()
     {
-        Counter.GetComponent<Text>().text = Counter + "/5";
+        Counter.GetComponent<TextMeshProUGUI>().text = bloodvialCount + "/5";
 
     }
 }
