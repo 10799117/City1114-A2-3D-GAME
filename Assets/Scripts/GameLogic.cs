@@ -8,7 +8,7 @@ public class GameLogic : MonoBehaviour
 {
     public GameObject Counter;
 
-    private int bloodvialCount;
+    public int bloodvialCount;
 
 
     void Start()

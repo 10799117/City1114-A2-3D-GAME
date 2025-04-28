@@ -10,11 +10,15 @@ public class CollectItem : MonoBehaviour
 
     private GameObject Bloodvial;
 
+    private GameObject gameLogic;
+
     private void Start()
     {
         collectText.SetActive(false);
 
         inReach = false;
+
+        gameLogic = GameObject.FindWithTag("GameLogic");
 
         Bloodvial = this.gameObject;
     }
@@ -42,6 +46,7 @@ public class CollectItem : MonoBehaviour
         if (inReach && Input.GetButtonDown("Pickup"))
 
         {
+            gameLogic.GetComponent<GameLogic>().bloodvialCount += 1;
             collectText.SetActive(false);
             Bloodvial.SetActive(false);
             inReach = false;
