@@ -6,6 +6,7 @@ using TMPro;
 
 public class GameLogic : MonoBehaviour
 {
+    // Identifies counter object
     public GameObject Counter;
 
     public int bloodvialCount;
@@ -13,6 +14,7 @@ public class GameLogic : MonoBehaviour
 
     void Start()
     {
+        // Start the counter at 0
         bloodvialCount = 0;
 
     }
@@ -21,6 +23,7 @@ public class GameLogic : MonoBehaviour
 
     void Update()
     {
+        // Display counter text with /5  with every item pickup
         Counter.GetComponent<TextMeshProUGUI>().text = bloodvialCount + "/5";
 
     }
