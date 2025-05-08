@@ -11,6 +11,21 @@ public class GameLogic : MonoBehaviour
 
     public int bloodvialCount;
 
+    public GameObject Endscreen;
+
+    public void BloodvialIncrease()
+    {
+        // Add to counter total
+        bloodvialCount += 1;
+
+        // Sets Enscreen as active when the last vial is picked up
+        if (bloodvialCount == 5)
+        {
+            Endscreen.SetActive(true);
+            // Pauses the game
+            Time.timeScale = 0f;
+        }
+    }
 
     void Start()
     {

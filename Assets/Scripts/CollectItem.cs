@@ -54,8 +54,10 @@ public class CollectItem : MonoBehaviour
         if (inReach && Input.GetButtonDown("Pickup"))
 
         {
+
+
             // Add to counter total
-            gameLogic.GetComponent<GameLogic>().bloodvialCount += 1;
+            gameLogic.GetComponent<GameLogic>().BloodvialIncrease();
             // Remove Text from scene
             collectText.SetActive(false);
             // Remove Asset from scene
