@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\City1114-A2-3D-GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|D:\\Github\\City1114-A2-3D-GAME\\assets\\scripts\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|D:\\Github\\City1114-A2-3D-GAME\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|D:\\Github\\City1114-A2-3D-GAME\\assets\\scripts\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|D:\\Github\\City1114-A2-3D-GAME\\assets\\scripts\\endscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|d:\\github\\city1114-a2-3d-game\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{021151F2-08BB-CD38-FB48-8F848038A392}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:59:53.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EndScript.cs",
+              "DocumentMoniker": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\EndScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndScript.cs",
+              "ToolTip": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\EndScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:58:59.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectItem.cs",
+              "DocumentMoniker": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\CollectItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectItem.cs",
+              "ToolTip": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\CollectItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:16:13.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:14:49.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLogic.cs",
+              "ToolTip": "D:\\Github\\City1114-A2-3D-GAME\\Assets\\Scripts\\GameLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLogic.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:22:56.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

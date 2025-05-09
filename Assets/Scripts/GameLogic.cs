@@ -24,6 +24,8 @@ public class GameLogic : MonoBehaviour
             Endscreen.SetActive(true);
             // Pauses the game
             Time.timeScale = 0f;
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
         }
     }
 
